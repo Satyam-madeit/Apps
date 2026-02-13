@@ -11,6 +11,8 @@ df = pd.read_csv('sales.csv')
 #st.subheader("Summary Statistics")
 #st.write(df.describe())
 
+st.audio('Future_Metro_Boomin_The_Weeknd_-_Young_Metro_Official_Music_Video_256KBPS.webm' ,autoplay=True, loop=True)
+
 st.sidebar.text_input("Enter Your Name")
 
 with st.expander("Data Preview"):
