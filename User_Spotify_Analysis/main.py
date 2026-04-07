@@ -516,3 +516,5 @@ else:
     Spotify Listening Insights &nbsp;·&nbsp; Built with Streamlit &nbsp;·&nbsp; Data covers {df['Year'].min()}–{df['Year'].max()}
   </div>
   """, unsafe_allow_html=True)
+
+#Best Of Luck
